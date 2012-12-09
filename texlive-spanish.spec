@@ -44,3 +44,17 @@ Mexico.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 5.0k-2
++ Revision: 756090
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 5.0k-1
++ Revision: 719560
+- texlive-spanish
+- texlive-spanish
+- texlive-spanish
+- texlive-spanish
+
