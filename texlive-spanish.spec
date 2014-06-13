@@ -6,7 +6,7 @@
 # catalog-version 5.0k
 Name:		texlive-spanish
 Version:	5.0k
-Release:	6
+Release:	7
 Summary:	Spanish in Babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/spanish/babel/base
