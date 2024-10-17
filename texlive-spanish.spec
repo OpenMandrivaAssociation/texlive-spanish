@@ -9,7 +9,7 @@ Version:	5.0k
 Release:	13
 Summary:	Spanish in Babel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/spanish/babel/base
+URL:		https://www.ctan.org/tex-archive/language/spanish/babel/base
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spanish.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spanish.doc.tar.xz
